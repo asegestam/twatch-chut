@@ -9,7 +9,7 @@
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^5.3.1",
     "@types/tmi.js": "^1.8.1",
-    "nuxt": "3.0.0-rc.6"
+    "nuxt": "3.0.0-rc.7"
   },
   "dependencies": {
     "@pinia/nuxt": "^0.4.0",
